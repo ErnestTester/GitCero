@@ -10,3 +10,7 @@ This is a new method created to create a new Window
 --------------------------------------------------
 
 New line for implemente a new method
+
+*************************************
+
+New Code was implemented in the class

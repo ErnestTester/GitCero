@@ -14,3 +14,8 @@ New line for implemente a new method
 *************************************
 
 New Code was implemented in the class
+
+public class
+{
+    
+}

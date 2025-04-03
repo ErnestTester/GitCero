@@ -17,5 +17,8 @@ New Code was implemented in the class
 
 public class
 {
-    
+    public static void main(String args[])
+    {
+
+    }
 }
